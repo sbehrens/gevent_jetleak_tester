@@ -1,4 +1,4 @@
-# gevent_jeatleak_tester
+# gevent_jetleak_tester
 Gevented script for checking servers for Jetleak vulnerablty.  
 
 See [GDS Security](http://blog.gdssecurity.com/labs/2015/2/25/jetleak-vulnerability-remote-leakage-of-shared-buffers-in-je.html) for more information.
