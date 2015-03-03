@@ -11,5 +11,5 @@ python jetleak_tester.py urls.txt
 ```
 
 ## Requires
-Requests
-Gevent
+* Requests
+* Gevent
